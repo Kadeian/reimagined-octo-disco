@@ -10,11 +10,11 @@ I am a Senior IT Program Manager with extensive experience in leading complex te
 
 ## **Table of Contents**
 
-1. [Plant Seedling Classification](./Plant_Seedlings_Classification.ipynb)
-2. [FoodHub Data Analysis](./Copy_of_FoodHub_Order_Analysis_Jaysen_Lamb_2_1_24.ipynb)
-3. [AllLifeBank Personal Loan Campaign Modelling](./AllLifeBank_Personal_Loan_Campaign_Modelling)
-4. [Support Ticket Categorization](./Support_Project.ipynb)
-5. [Employee Promotion Prediction](./Employee_Promotion_Prediction_Project.ipynb)
+🌱 [Plant Seedling Classification](./Plant_Seedlings_Classification.ipynb)
+🍔 [FoodHub Data Analysis](./Copy_of_FoodHub_Order_Analysis_Jaysen_Lamb_2_1_24.ipynb)
+💳 [AllLifeBank Personal Loan Campaign Modelling](./AllLifeBank_Personal_Loan_Campaign_Modelling)
+🛠️ [Support Ticket Categorization](./Support_Project.ipynb)
+🎯 [Employee Promotion Prediction](./Employee_Promotion_Prediction_Project.ipynb)
 ---
 ## **Technologies**
 
@@ -40,27 +40,27 @@ I am a Senior IT Program Manager with extensive experience in leading complex te
 
 ## **Project Details**
 
-### **[1. Plant Seedling Classification](./Plant_Seedlings_Classification.ipynb)**
+### 🌱 **[1. Plant Seedling Classification](./Plant_Seedlings_Classification.ipynb)**
 - **Objective:** Develop a convolutional neural network model to classify different plant seedlings.
 - **Technologies Used:** Python, TensorFlow, Keras, CNNs.
 - **Achievements:** Improved crop yields and minimized human intervention by classifying plant seedlings and weeds accurately.
 
-### **[2. FoodHub Data Analysis](./Copy_of_FoodHub_Order_Analysis_Jaysen_Lamb_2_1_24.ipynb)**
+### 🍔 **[2. FoodHub Data Analysis](./Copy_of_FoodHub_Order_Analysis_Jaysen_Lamb_2_1_24.ipynb)**
 - **Objective:** Analyze FoodHub order data to provide actionable insights for a food aggregator company.
 - **Technologies Used:** Python, Pandas, NumPy, Matplotlib, Seaborn.
 - **Achievements:** Enhanced customer experience by understanding demand patterns across different restaurants and cuisines.
 
-### **[3. AllLifeBank Personal Loan Campaign Modelling](./AllLifeBank_Personal_Loan_Campaign_Modelling)**
+### 💳 **[3. AllLifeBank Personal Loan Campaign Modelling](./AllLifeBank_Personal_Loan_Campaign_Modelling)**
 - **Objective:** Assist the marketing department in identifying customers with a high probability of purchasing a personal loan.
 - **Technologies Used:** Python, Logistic Regression, Decision Trees.
 - **Achievements:** Employed exploratory data analysis and data preprocessing to refine loan targeting strategies.
 
-### **[4. Support Ticket Categorization](./Support_Ticket_Project.ipynb)**
+### 🛠️ **[4. Support Ticket Categorization](./Support_Ticket_Project.ipynb)**
 - **Objective:** Develop an advanced support ticket categorization system that accurately classifies incoming tickets and assigns priority.
 - **Technologies Used:** Python, Machine Learning, Natural Language Processing.
 - **Achievements:** Enhanced operational efficiency by reducing manual classification and speeding up ticket resolution.
 
-### **[5. Employee Promotion Prediction](./Employee_Promotion_Prediction_Project.ipynb)**
+### 🎯 **[5. Employee Promotion Prediction](./Employee_Promotion_Prediction_Project.ipynb)**
 - **Objective:** Predict which employees are likely to be promoted based on their performance metrics and company criteria.
 - **Technologies Used:** Python, Scikit-Learn, Machine Learning Models.
 - **Achievements:** Created a fair and efficient system for predicting employee promotions, using data-driven decision-making processes.
