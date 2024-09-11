@@ -13,20 +13,31 @@ I am a Senior IT Program Manager with extensive experience in leading complex te
 1. [Plant Seedling Classification](./Plant_Seedlings_Classification.ipynb)
 2. [FoodHub Data Analysis](./Copy_of_FoodHub_Order_Analysis_Jaysen_Lamb_2_1_24.ipynb)
 3. [AllLifeBank Personal Loan Campaign Modelling](./AllLifeBank_Personal_Loan_Campaign_Modelling)
-4. [Support Ticket Categorization](./Support_Ticket_Categorization)
+4. [Support Ticket Categorization](./Support_Project.ipynb)
 5. [Employee Promotion Prediction](./Employee_Promotion_Prediction_Project.ipynb)
+---
+## **Technologies**
+
+| **Category**               | **Technology**                                                                                                                                                                                                                                           |
+|----------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Programming Languages**   | ![Python](https://img.shields.io/badge/Python-3.8-blue?logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-yellow?logo=postgresql&logoColor=white) ![Java](https://img.shields.io/badge/Java-1.8-red?logo=java&logoColor=white) ![R](https://img.shields.io/badge/R-4.0-blue?logo=r&logoColor=white) |
+| **Data Science Frameworks** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.0-orange?logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-2.0-red?logo=keras&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0.24-orange?logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-1.8-orange?logo=pytorch&logoColor=white) |
+| **Data Manipulation**       | ![Pandas](https://img.shields.io/badge/Pandas-1.2.0-blue?logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-1.19-blue?logo=numpy&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter&logoColor=white)                         |
+| **Data Visualization**      | ![Matplotlib](https://img.shields.io/badge/Matplotlib-3.3-blue?logo=python&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-0.11-blue?logo=python&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-2020.4-orange?logo=tableau&logoColor=white) ![PowerBI](https://img.shields.io/badge/PowerBI-Data-blue?logo=powerbi&logoColor=white) |
+| **Cloud & DevOps**          | ![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazonaws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-Cloud-blue?logo=microsoft-azure&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-Version_Control-black?logo=github&logoColor=white) ![Git](https://img.shields.io/badge/Git-Version_Control-black?logo=git&logoColor=white) |
 
 ---
+
 ## **Skills Summary**
 
-- **Core Programming:** Python, SQL.
-- **Data Science Technologies:** TensorFlow, PyTorch, Scikit-Learn, Keras.
-- **Data Manipulation:** Pandas, NumPy.
-- **Visualization Tools:** Matplotlib, Seaborn.
-- **Machine Learning:** Supervised and Unsupervised Learning, Natural Language Processing.
-- **Project Management:** Agile methodologies, including Scrum and SAFe; project planning and execution.
+| **Category**                 | **Skill**                                                                                                                                                                                                                                              |
+|------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Agile Methodologies**       | ![Scrum](https://img.shields.io/badge/Scrum-Agile-ff69b4?logo=scrumalliance&logoColor=white) ![SAFe](https://img.shields.io/badge/SAFe-Scaled_Agile-orange?logo=safe&logoColor=white) ![KANBAN](https://img.shields.io/badge/KANBAN-Agile-blue?logo=kanban&logoColor=white)                  |
+| **Traditional Methodologies** | ![Waterfall](https://img.shields.io/badge/Waterfall-Methodology-blue?logo=waterfall&logoColor=white) ![SDLC](https://img.shields.io/badge/SDLC-Methodology-green?logo=project-management&logoColor=white)                                                                                   |
+| **Project Management Tools**  | ![JIRA](https://img.shields.io/badge/JIRA-Project-blue?logo=jira&logoColor=white) ![Confluence](https://img.shields.io/badge/Confluence-Documentation-blue?logo=confluence&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-Task_Management-blue?logo=trello&logoColor=white) ![Smartsheet](https://img.shields.io/badge/Smartsheet-Task_Management-green?logo=smartsheet&logoColor=white) |
 
 ---
+
 ## **Project Details**
 
 ### **[1. Plant Seedling Classification](./Plant_Seedlings_Classification.ipynb)**
@@ -44,7 +55,7 @@ I am a Senior IT Program Manager with extensive experience in leading complex te
 - **Technologies Used:** Python, Logistic Regression, Decision Trees.
 - **Achievements:** Employed exploratory data analysis and data preprocessing to refine loan targeting strategies.
 
-### **[4. Support Ticket Categorization](./Support_Ticket_Categorization)**
+### **[4. Support Ticket Categorization](./Support_Ticket_Project.ipynb)**
 - **Objective:** Develop an advanced support ticket categorization system that accurately classifies incoming tickets and assigns priority.
 - **Technologies Used:** Python, Machine Learning, Natural Language Processing.
 - **Achievements:** Enhanced operational efficiency by reducing manual classification and speeding up ticket resolution.
