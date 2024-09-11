@@ -20,7 +20,7 @@ I am a Senior IT Program Manager with extensive experience in leading complex te
 
 ## **Project Details**
 
-### **1. Plant Seedling Classification**
+### **[1. Plant Seedling Classification](./Plant_Seedlings_Classification.ipynb)**
 - **Objective:** Develop a convolutional neural network model to classify different plant seedlings.
 - **Technologies Used:** Python, TensorFlow, Keras, CNNs.
 - **Achievements:** Improved crop yields and minimized human intervention by classifying plant seedlings and weeds accurately.
