@@ -7,15 +7,14 @@ Welcome to my portfolio of data science and machine learning projects. This repo
 I am a Senior IT Program Manager with extensive experience in leading complex technology programs, specializing in AI/ML technologies. My background includes advanced technical skills, robust project management capabilities, and a strong track record in delivering data-driven business solutions.
 
 ---
-
 ## **Table of Contents**
 
-| 🌱 [Plant Seedling Classification](./Plant_Seedlings_Classification.ipynb) |
-| 🍔 [FoodHub Data Analysis](./Copy_of_FoodHub_Order_Analysis_Jaysen_Lamb_2_1_24.ipynb) |
-| 💳 [AllLifeBank Personal Loan Campaign Modelling](./AllLifeBank_Personal_Loan_Campaign_Modelling) |
-| 🛠️ [Support Ticket Categorization](./Support_Project.ipynb) |
-| 🎯 [Employee Promotion Prediction](./Employee_Promotion_Prediction_Project.ipynb) |
----
+- 🌱 [Plant Seedling Classification](./Plant_Seedlings_Classification.ipynb)
+- 🍔 [FoodHub Data Analysis](./Copy_of_FoodHub_Order_Analysis_Jaysen_Lamb_2_1_24.ipynb)
+- 💳 [AllLifeBank Personal Loan Campaign Modelling](./AllLifeBank_Personal_Loan_Campaign_Modelling)
+- 🛠️ [Support Ticket Categorization](./Support_Ticket_Project.ipynb)
+- 🎯 [Employee Promotion Prediction](./Employee_Promotion_Prediction_Project.ipynb)
+
 ## **Technologies**
 
 | **Category**               | **Technology**                                                                                                                                                                                                                                           |
